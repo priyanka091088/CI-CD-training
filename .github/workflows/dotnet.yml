@@ -21,6 +21,8 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Release --no-restore
+    - name: Publish
+      run: dotnet publish --no-build
     - name: Test  
       run: dotnet test --no-restore --verbosity normal
       
