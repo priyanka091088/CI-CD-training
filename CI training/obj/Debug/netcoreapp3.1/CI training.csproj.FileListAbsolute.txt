@@ -1,0 +1,37 @@
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\CI training.exe
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\CI training.deps.json
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\CI training.runtimeconfig.json
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\CI training.runtimeconfig.dev.json
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\CI training.dll
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\CI training.pdb
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\CI training.Views.dll
+C:\Users\YN Computer\source\repos\CI training\CI training\bin\Debug\netcoreapp3.1\CI training.Views.pdb
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.csprojAssemblyReference.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.AssemblyInfoInputs.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.AssemblyInfo.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.csproj.CoreCompileInputs.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.RazorAssemblyInfo.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.RazorAssemblyInfo.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\staticwebassets\CI training.StaticWebAssets.Manifest.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\staticwebassets\CI training.StaticWebAssets.xml
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\scopedcss\bundle\CI training.styles.css
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.TagHelpers.input.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.TagHelpers.output.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.RazorCoreGenerate.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.RazorTargetAssemblyInfo.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.RazorTargetAssemblyInfo.cs
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.Views.pdb
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.dll
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.pdb
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.genruntimeconfig.cache
+C:\Users\YN Computer\source\repos\CI training\CI training\obj\Debug\netcoreapp3.1\CI training.csproj.CopyComplete
