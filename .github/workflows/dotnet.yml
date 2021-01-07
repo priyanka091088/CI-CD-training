@@ -2,9 +2,9 @@ name: .NET
 
 on:
   push:
-    branches: [ main ]
+    branches: [ dev ]
   pull_request:
-    branches: [ main ]
+    branches: [ dev ]
 
 jobs:
   build:
@@ -21,7 +21,16 @@ jobs:
       run: dotnet restore
     - name: Build
       run: dotnet build --configuration Debug --no-restore
+    - name: Publish
+      run: dotnet publish --configuration Debug --no-build
     - name: Test  
       run: dotnet test --no-restore --verbosity normal
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v2.2.2
+      with:
+        name: artifact
+        path: /home/runner/work/CI-CD-training/CI-CD-training/CI training/bin/Debug/netcoreapp3.1/publish/
+        if-no-files-found: warn        
+        retention-days: 0
       
     
