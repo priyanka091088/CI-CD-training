@@ -11,7 +11,7 @@ jobs:
 
     runs-on: windows-latest
     env:
-      PROJECT_DIRECTORY_PATH: "CI-CD-training"
+      PROJECT_DIRECTORY_PATH: "CI training"
       IIS_SERVER_COMPUTER_NAME: ${{ secrets.IIS_SERVER_COMPUTER_NAME }}
       IIS_WEBSITE_NAME: ${{ secrets.IIS_WEBSITE_NAME }}
       IIS_SERVER_USERNAME: ${{ secrets.IIS_SERVER_USERNAME }}
